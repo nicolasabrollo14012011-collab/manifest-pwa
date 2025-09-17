@@ -1,0 +1,29 @@
+{
+  "name": "Observatorio Escolar JM",
+  "short_name": "Observatorio Escolar JM",
+  "description": "Observatorio Escolar JM",
+  "start_url": "/",
+  "scope": "/",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/bjtqbNGs/1528a7a7b-logo-2.jpg",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/bjtqbNGs/1528a7a7b-logo-2.jpg",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/bjtqbNGs/1528a7a7b-logo-2.jpg",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
